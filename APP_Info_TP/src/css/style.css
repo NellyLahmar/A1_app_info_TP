@@ -1,0 +1,93 @@
+/* Lahmar Nelly | Style du CSS utilisé au 1e TP, très peu modifié | Ne pas réévaluer svp */
+
+@charset "UTF-8";
+
+* {
+	/* font-family: 'Roboto', sans-serif; */
+	font-size : 14px;
+	color : #000000;
+	/*text-decoration : none ;*/
+}
+
+
+header{
+	text-align : center;
+}
+
+nav{
+	text-align : right;
+	margin : 5px;
+}
+
+a{
+	margin : 10px;
+}
+
+h1,h2,a {
+	color : rgb(0, 97, 161) ;
+}
+
+h1{
+	font-size : 3em;
+}
+
+h2{
+	font-size : 2em;
+}
+
+a {
+	text-decoration : underline;
+}
+
+#image{
+	text-align : center;
+}
+
+#logo {
+	text-align : center;
+	width : 250px;
+	height : auto;
+}
+
+em {
+	font-style : italic;
+}
+
+strong {
+	font-size : bold;
+}
+
+div {
+	display : inline-block;
+	width: 45%;
+	height : 20%;
+	vertical-align: top;
+	margin : 0px 15px 0px 0px;
+}
+
+
+#nameID,#mailID{
+  color: #818181 ;
+  width : 100%;
+  margin-top : 1%;
+  margin-down : 1%;
+}
+
+
+button{
+    background-color : rgb(0,97,161);
+    color : white;
+    border-width:0;
+    font-size: 0.8em;
+    border-radius : 5px;
+}
+
+section{
+	display: inline-block;
+}
+
+#section_G{
+	background-color : #D9D9D9;
+	width : 50%;
+	
+}
