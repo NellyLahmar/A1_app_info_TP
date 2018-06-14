@@ -1,4 +1,4 @@
-<!-- Lahmar Nelly | Page Administration (Problème : fonctionne avec n'importe quel utilisateur) -->
+<!-- Lahmar Nelly | Page Administration si utilisateur lambda -->
 
 
 <?php session_start(); ?>

@@ -1,4 +1,4 @@
-<!-- Lahmar Nelly | Page Administration (Problème : fonctionne avec n'importe quel utilisateur) -->
+<!-- Lahmar Nelly | Page Administration -->
 
 
 <?php session_start(); ?>
@@ -35,7 +35,7 @@
 					}
 					else {
 						?>
-						<a href = "administration2.php"> Administration</a>
+						<a href = "administrationUtilisateurLambda.php"> Administration</a>
 					<?php 
 					}
 					?>

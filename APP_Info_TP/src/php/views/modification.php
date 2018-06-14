@@ -1,4 +1,4 @@
-<!-- Lahmar Nelly | Page d'acutalités avant connexion -->
+<!-- Lahmar Nelly | Page de modification des messages -->
 
 
 <?php session_start(); ?>

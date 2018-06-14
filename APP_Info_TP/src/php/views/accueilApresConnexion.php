@@ -38,7 +38,7 @@ echo 'Bienvenue ' . $prenom . ' ' . $nom . ' !';
 					}
 					else {
 						?>
-						<a href = "administration2.php"> Administration</a>
+						<a href = "administrationUtilisateurLambda.php"> Administration</a>
 					<?php 
 					}
 					?>

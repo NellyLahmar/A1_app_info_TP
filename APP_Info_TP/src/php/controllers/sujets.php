@@ -1,4 +1,4 @@
-<!-- Lahmar Nelly | Entre un sujet dans la base de données (table 'messages') | Filtre Date essayé, non abouti -->
+<!-- Lahmar Nelly | Entre un sujet dans la base de données (table 'messages') | Filtre par dates non abouti -->
 
 <?php
 

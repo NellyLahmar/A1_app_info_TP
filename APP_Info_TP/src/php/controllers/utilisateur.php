@@ -1,4 +1,4 @@
-<!-- Lahmar Nelly | Affiche une vue en fonction de l'état de connexion | Inspiré de KingDome -->
+<!-- Lahmar Nelly | Affiche une vue en fonction de l'état de connexion -->
 
 
 <?php

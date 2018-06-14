@@ -1,4 +1,4 @@
-<!-- Lahmar Nelly | Formulaires d'inscription et de connexion | Ne pas évaluer le CSS car inexistant -->
+<!-- Lahmar Nelly | Formulaires d'inscription et de connexion | CSS inexistant -->
 
 <!-- Formulaires d'inscription / connexion  -->
 
